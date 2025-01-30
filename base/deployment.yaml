@@ -19,4 +19,4 @@ spec:
         - name: MYSQL_ROOT_PASSWORD
           value: rootpassword123
         ports:
-        - containerPort: 3306
+        - containerPort: 3306     
